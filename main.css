@@ -1,0 +1,12 @@
+h1 {text-align: center;}
+
+	header {text-align: center;
+		color: white;
+
+		font-size: 40px;
+		background-size: cover;
+		margin: 0, auto;
+		background: url(http://i.telegraph.co.uk/multimedia/archive/02537/london-marathon_2537307b.jpg);}
+     img {margin: 40px 0px 0px 0px;}   
+.first {color: black;} 
+.second {color: blue;}
